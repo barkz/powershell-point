@@ -1,0 +1,10 @@
+!PowerShell for Linux
+Thank you!
+    Mr. Snover
+    Microsoft PowerShell Team
+    PowerShell Community
+Why?
+    PowerShell x-plat
+    .NET Core
+    Visual Studio Code
+    Open Source
