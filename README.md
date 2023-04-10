@@ -1,3 +1,3 @@
-# powershell-point
+# PowerShell Point
 
 Planned work:
